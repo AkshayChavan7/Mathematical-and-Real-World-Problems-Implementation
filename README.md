@@ -15,7 +15,7 @@ This repository contains a programmatical implementation of various mathematical
 	 viii. Lagrange Differentiation <br />
 	 ix. Newton Interpolation <br />
 	 
- 2. **Numerical Integration**
+ 2. **Numerical Integration** <br />
 	 i. Right Reimann <br />
 	 ii. Mid point Reimann <br />
 	 iii. Left Reimann <br />
@@ -24,11 +24,11 @@ This repository contains a programmatical implementation of various mathematical
 	 vi. Romberg Integration <br />
 	 vii. Simpson <br />
 	 
- 3. **Options Pricing**
+ 3. **Options Pricing** <br />
 	 i.   Binomial Option Pricing <br />
 	 ii.  Black Scholes Option Pricing <br />
 	 iii. Monte Carlo Simulation OP <br />
- 4. **Random Number Generation**
+ 4. **Random Number Generation** <br />
 	 i. BlumBlumShub Algorithm <br />
 	 ii. Linear Fibonacci <br />
 	 iii. Linear Congruential Generator <br />
@@ -36,7 +36,7 @@ This repository contains a programmatical implementation of various mathematical
 	 v. Mid Square <br />
 	 vi. Linear Feedback Shift Register <br />
 
- 5. **Real World Problems**
+ 5. **Real World Problems** <br />
 	 i. Date Day Conversion <br />
 	 ii. Cholesky Matrix Decomposition <br />
 	 iii. Water Canal <br />
