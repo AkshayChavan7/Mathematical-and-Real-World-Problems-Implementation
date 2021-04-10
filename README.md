@@ -45,7 +45,7 @@ This repository contains a programmatical implementation of various mathematical
 	 vi. Linear Regression Least square <br />
 	 vii. GARCH <br />
 	 viii. Volatility plot surface <br />
-	 ix. DLS method <br />
+	 ix. Duckworth-Lewis-Stern (DLS) method used in Cricket for score revising <br />
 	 x. Newton Raphson method <br />
 	 xi. Cubic Spline <br />
 
